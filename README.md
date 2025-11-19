@@ -1,15 +1,14 @@
-<img align="center" src="assets/banner.png" />
+# swaydots
+#### Sway dotfiles with automatic theme switching.
 
-# ✨swaydots✨
-#### Cozy sway dotfiles with automatic theme switching.
-
-[![sway](https://img.shields.io/badge/sway-62B9D4?logo=sway&logoColor=white)](#)
-[![stars](https://img.shields.io/github/stars/aceydot/swaydots?&color=C9B233&style=flat)](#)
 [![commit](https://img.shields.io/github/last-commit/aceydot/swaydots?&color=6CC070&style=flat)](#)
 [![license](https://img.shields.io/badge/GNU-GPL%203.0-a32d2a?logo=gnu&logoColor=black&labelColor=ffffff)](#)
 [![Help the Students](https://img.shields.io/badge/Help%20the%20Students-ffffff?logo=undertale&logoColor=pink)](https://podrzistudente.org/doniraj)
 
-## 📦 Installing
+> [!NOTE]
+> This project is now archived. Since this was my setup and i'm not using it anymore, i can't add any new features, fixes or improvements.
+
+## Installing
 
 ### Arch Linux
 
@@ -37,13 +36,13 @@ sh <(curl -L https://raw.githubusercontent.com/aceydot/swaydots/refs/heads/main/
 
 ### Other
 
-Install script is only available for Arch-based systems at the moment. Sorry :-(
+Install script is only available for Arch-based systems. Sorry :-(
 
-## 🖼️ Previews
+## Previews
 
 See them here - [Previews](https://github.com/aceydot/swaydots/wiki/Previews)
 
-## 🎨 Themes
+## Themes
 
 Currently, 5 themes are available:
 
@@ -53,32 +52,20 @@ Currently, 5 themes are available:
 - Nord
 - Rose-pine-Dark
 
-## 🚨 For everyone
+## For everyone
 
 The dotfiles should work out of the box, but I can't guarantee it.
 
-Note: they are configured to work on systems without scaling. If you have any problems, please open an issue.
-
-## 🚨 For laptop users
+## For laptop users
 
 Since I don't own a laptop, i can't confirm whether the backlight and battery modules in waybar work 100%.
 
-If you want, you can give me feedback on whether they work.
+## Contributing
 
-## ⌨️ Keybindings
-
-See the [WIKI](https://github.com/aceydot/swaydots/wiki/Keybindings).
-
-## 🗞️ Changelogs
-
-To see what’s changed, visit the [CHANGELOGS](https://github.com/aceydot/swaydots/wiki/Changelogs).
-
-## 🤝 Contributing
-
-Want to contribute? Check out [CONTRIBUTING](CONTRIBUTING.md).
+Fork the project, create a branch, make your changes, test them, and sumbit a pull request.
 
 ---
 
-##### 📖 For more information, check out the [WIKI](https://github.com/aceydot/swaydots/wiki).
+##### For more information, check out the [WIKI](https://github.com/aceydot/swaydots/wiki).
 
-##### ❤️‍🩹 Don't donate to me, donate to students in Serbia. Support their fight via [donation](https://podrzistudente.org/doniraj).
+##### Don't donate to me, donate to students in Serbia. Support their fight via [donation](https://podrzistudente.org/doniraj).
