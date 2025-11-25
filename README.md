@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/badge/GNU-GPL%203.0-a32d2a?logo=gnu&logoColor=black&labelColor=ffffff)](#)
 [![Help the Students](https://img.shields.io/badge/Help%20the%20Students-ffffff?logo=undertale&logoColor=pink)](https://podrzistudente.org/doniraj)
 
-> [!NOTE]
+> [!IMPORTANT]
 > This project is now archived. Since this was my setup and i'm not using it anymore, i can't add any new features, fixes or improvements.
 
 ## Installing
